@@ -1,0 +1,6 @@
+{
+  "name": "Brides of Light: The Lantern & The Word",
+  "description": "A retro 16-bit RPG exploring the parables of Christ, 7 souls Gospel sharing with the Scroll of Truth, the Sanctuary Garden of Faith (1 Cor 3:6-7), 1-hour mortal pilgrimage timer, and the glorious End of Times celestial victory with the King on the White Horse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
